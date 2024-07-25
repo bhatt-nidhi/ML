@@ -1,0 +1,3 @@
+import cv2
+img=cv2.imread("ca.png")
+cv2.imshow("original_img",img)
